@@ -1,0 +1,11 @@
+{
+  "name": "firehug-numbers",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
